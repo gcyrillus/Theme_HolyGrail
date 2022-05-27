@@ -10,7 +10,6 @@
 							<b style="display:block;text-align:center;color:tomato"><?php echo basename($_SERVER['REQUEST_URI']) ?></b> 
 							<?php $plxShow->erreurMessage(); ?>
 						</p> 
-							<p><small><?php if (eval($plxMotor->plxPlugins->callHook('showViews'))) return; ?></small></p>
 					</article>
 	</main>
 <?php include __DIR__.'/left-sidebar.php'; ?>
