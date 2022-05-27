@@ -1,5 +1,5 @@
 # Theme_HolyGrail
-theme basé sur le gabarit de https://matthewjamestaylor.com/responsive-column et le theme par défaut de http://pluxml.org / https://github.com/pluxml/PluXml
+theme basé sur le gabarit de https://matthewjamestaylor.com/responsive-columns et le theme par défaut de http://pluxml.org / https://github.com/pluxml/PluXml
 
 Preview:
 
