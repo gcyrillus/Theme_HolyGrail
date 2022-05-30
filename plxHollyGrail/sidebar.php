@@ -17,7 +17,6 @@
 		<ul class="lastart-list unstyled-list">
 			<?php $plxShow->lastArtList('<li><a class="#art_status" href="#art_url" title="#art_title">#art_title</a></li>'); ?>
 		</ul>
-		<?php if (eval($plxMotor->plxPlugins->callHook('mostViews'))) return; ?>
 		
 		<h3>
 			<?php $plxShow->lang('TAGS'); ?>
