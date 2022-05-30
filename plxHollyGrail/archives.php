@@ -24,7 +24,6 @@
 									<span class="written-by">
 										<?php $plxShow->lang('WRITTEN_BY'); ?> <?php $plxShow->artAuthor() ?>
 									</span>
-									<span><?php if (eval($plxMotor->plxPlugins->callHook('showViews'))) return; ?></span>
 									<span class="art-nb-com">
 										<?php $plxShow->artNbCom(); ?>
 									</span>
